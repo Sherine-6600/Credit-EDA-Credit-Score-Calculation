@@ -1,0 +1,30 @@
+Analysis and Insights
+1. We can observe that 11.4% of people have taken Payday Loans, followed by Credit-Builder Loans at 11.3% and Student Loans at 11.1%.
+2. We can observe that 75% of the people are under the age of 42.
+3. We can observe that people have a maximum of ten bank accounts and ten credit cards.
+4. We can observe that the interest rate ranges between 1% and 34%.
+5. We can observe that people have delayed payments for a maximum of 67 days.
+6. We can observe that the most frequent credit history age is 19 years and 5 months.
+7. We can observe that, approximately 60% of the time, people have paid only the minimum amount.
+8. We can observe that 45% of people have a standard credit mix.
+9. We can observe that there are more people with the occupation of Lawyer, followed by Engineer and Architect.
+10. We can observe that annual income, monthly in-hand salary, amount invested monthly, and monthly balance follow a right-skewed distribution.
+11. We can observe that age and annual income have no correlation in the given data.
+12. We can observe that even people with higher income have not always paid the minimum amount.
+13. We can observe that monthly in-hand salary and annual income, as well as amount invested monthly and monthly balance, are positively correlated.
+14. We can observe that interest rate is positively correlated with outstanding debt and credit inquiries.
+15. We can observe that credit score is positively correlated with credit history age.
+16. We can observe that the average monthly balance is lowest in May and highest in January.
+17. We can observe that people with lower income tend to have excellent credit scores.
+18. We can observe that people with good credit scores often have substantial debts.
+19. We can observe that people in the Lawyer occupation have a higher number of poor credit scores.
+20. We can observe that people with excellent credit scores have a higher number of loans.
+
+Recommendation
+1. The data suggests that people in certain occupations (e.g., Lawyers) have poorer credit scores. The model could benefit from incorporating occupation-related data and understanding how certain professions correlate with credit behavior.
+2. Since 45% of people have a standard credit mix, the model should consider how different types of credit contribute to the overall score.
+3. The observation that people with higher income have not necessarily paid the minimum amount suggests that income alone is not a reliable indicator of creditworthiness.
+4. The observation that the average monthly balance is lowest in May and higher in January indicates seasonal trends. We should adjust the model to account for seasonal variations.
+5. Positive correlation between income and other financial metrics indicates that higher income usually comes with higher monthly inhand salary and investment amounts. However, this does not always correlate with better credit scores if debt management is not addressed.
+6. Incorporating financial management factors such as investment behavior, and debt management into the credit scoring model can provide a more holistic view of an individual's financial health.
+7. Provide resources and education to help customers understand how different financial behaviors (e.g., minimum payments, loan types) impact their credit scores. This can help customers make informed decisions and improve their creditworthiness.
